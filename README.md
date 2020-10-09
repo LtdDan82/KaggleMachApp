@@ -1,6 +1,8 @@
 # KaggleMachApp
 App deployment of KaggleMachining - Repo to Heroku
 
+Note: This is just a test to learn App Deployment
+
 ### Purpose
 Show deployment skills
 
